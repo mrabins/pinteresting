@@ -1,5 +1,5 @@
 current directory: /Users/markrabins/Documents/Dev Stuff/Rails projects/pinteresting/path/to/install/ruby/2.3.0/gems/pg-0.18.4/ext
-/Users/markrabins/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160309-24290-13jg1g4.rb extconf.rb --with-pg-config=/usr/pgsql-9.1/bin/pg_config
+/Users/markrabins/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160311-28793-1an903y.rb extconf.rb --with-pg-config=/usr/pgsql-9.1/bin/pg_config
 Using config values from /usr/pgsql-9.1/bin/pg_config
 sh: /usr/pgsql-9.1/bin/pg_config: No such file or directory
 sh: /usr/pgsql-9.1/bin/pg_config: No such file or directory
