@@ -914,7 +914,7 @@ checked program was:
 "gcc -o conftest -I/Users/markrabins/.rvm/rubies/ruby-2.3.0/include/ruby-2.3.0/x86_64-darwin15 -I/Users/markrabins/.rvm/rubies/ruby-2.3.0/include/ruby-2.3.0/ruby/backward -I/Users/markrabins/.rvm/rubies/ruby-2.3.0/include/ruby-2.3.0 -I.  -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe conftest.c  -L. -L/Users/markrabins/.rvm/rubies/ruby-2.3.0/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib -L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib -Wl,-rpath,    -lpq  -lruby.2.3.0 -lpq  -lpthread -ldl -lobjc "
 Undefined symbols for architecture x86_64:
   "_rb_enc_alias", referenced from:
-      _t in conftest-8ace86.o
+      _t in conftest-575cad.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -1076,7 +1076,7 @@ checked program was:
 "gcc -o conftest -I/Users/markrabins/.rvm/rubies/ruby-2.3.0/include/ruby-2.3.0/x86_64-darwin15 -I/Users/markrabins/.rvm/rubies/ruby-2.3.0/include/ruby-2.3.0/ruby/backward -I/Users/markrabins/.rvm/rubies/ruby-2.3.0/include/ruby-2.3.0 -I.  -I/usr/local/opt/libyaml/include -I/usr/local/opt/readline/include -I/usr/local/opt/libksba/include -I/usr/local/opt/openssl/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT    -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wunused-variable -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration -Wdivision-by-zero -Wdeprecated-declarations -Wextra-tokens  -fno-common -pipe conftest.c  -L. -L/Users/markrabins/.rvm/rubies/ruby-2.3.0/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib -L. -fstack-protector -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/readline/lib -L/usr/local/opt/libksba/lib -L/usr/local/opt/openssl/lib -Wl,-rpath,    -lpq  -lruby.2.3.0 -lpq  -lpthread -ldl -lobjc "
 Undefined symbols for architecture x86_64:
   "_rb_w32_wrap_io_handle", referenced from:
-      _t in conftest-e3de91.o
+      _t in conftest-966b92.o
 ld: symbol(s) not found for architecture x86_64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
